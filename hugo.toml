@@ -2,6 +2,7 @@ baseURL = 'https://Mohad.sa/'
 languageCode = 'en-us'
 title = 'Portfolio'
 theme = "hello-friend-ng"
+backgroundImage = "assets/images/bocchi.jpg"
 
 [params]
   homeSubtitle = "Welcome to my portfolio"
@@ -15,3 +16,8 @@ theme = "hello-friend-ng"
     identifier = "posts"
     name       = "Posts"
     url        = "/posts/"
+	
+[[params.social]]
+  name = "Github"
+  url = "https://github.com/Mohaddz"
+  
