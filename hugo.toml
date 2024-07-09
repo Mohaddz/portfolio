@@ -1,0 +1,17 @@
+baseURL = 'https://Mohad.sa/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = "hello-friend-ng"
+
+[params]
+  homeSubtitle = "Welcome to my portfolio"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts/"
