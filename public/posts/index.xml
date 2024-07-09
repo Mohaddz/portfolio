@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Portfolio</title>
+        <title>Posts on AI Blog</title>
         <link>http://localhost:1313/posts/</link>
-        <description>Recent content in Posts on Portfolio</description>
+        <description>Recent content in Posts on AI Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 09 Jul 2024 22:57:31 +0300</lastBuildDate>
@@ -10,10 +10,10 @@
         
         <item>
             <title>First Post</title>
-            <link>http://localhost:1313/posts/first-post/</link>
+            <link>http://localhost:1313/posts/2024/07/first-post/</link>
             <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
             
-            <guid>http://localhost:1313/posts/first-post/</guid>
+            <guid>http://localhost:1313/posts/2024/07/first-post/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
