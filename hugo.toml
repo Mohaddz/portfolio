@@ -144,10 +144,10 @@ disableHugoGeneratorInject = false
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Uncomment this if you want a portrait on your start page
   #
- [params.portrait]
-   path     = "/assets/images/johnCina.jpg"
-   alt      = "Portrait"
-   maxWidth = "50px"
+# [params.portrait]
+#   path     = "/assets/images/johnCina.jpg"
+#   alt      = "Portrait"
+#   maxWidth = "50px"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
   # Addon: Commento
