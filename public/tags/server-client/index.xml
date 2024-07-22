@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Server-Client on AI Blog</title>
-    <link>https://example.com/tags/server-client/</link>
+    <link>http://localhost:1313/tags/server-client/</link>
     <description>Recent content in Server-Client on AI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Feb 2023 11:00:00 +0300</lastBuildDate>
-    <atom:link href="https://example.com/tags/server-client/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/server-client/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Server-Client Character Occurrence Counter</title>
-      <link>https://example.com/projects/hangman/</link>
+      <link>http://localhost:1313/projects/hangman/</link>
       <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>https://example.com/projects/hangman/</guid>
+      <guid>http://localhost:1313/projects/hangman/</guid>
       <description>Introduction This project implements a server-client program in Java that counts the occurrences of a specific character in a given string. The client sends a character and a string to the server, which then processes the request and returns the number of occurrences. This program utilizes TCP as the transport protocol, ensuring reliable and secure communication between the server and client.&#xA;Project Structure The project consists of two main components:</description>
     </item>
   </channel>
