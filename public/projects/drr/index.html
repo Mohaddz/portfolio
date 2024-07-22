@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
 <meta name="description" content="Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.
-2. Project Structure The project consists of four main classes:" />
+1.1 Understanding CPU Scheduling Before diving into the specifics of Round Robin algorithms, it&amp;rsquo;s essential to understand what CPU scheduling is:" />
 <meta name="keywords" content=", Operating Systems, Java, Scheduling Algorithms, Round Robin, Dynamic Round Robin, CPU Scheduling" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
@@ -40,10 +40,10 @@
 
   <meta itemprop="name" content="Dynamic vs Normal Round Robin Scheduling Comparison">
   <meta itemprop="description" content="Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.
-2. Project Structure The project consists of four main classes:">
+1.1 Understanding CPU Scheduling Before diving into the specifics of Round Robin algorithms, it’s essential to understand what CPU scheduling is:">
   <meta itemprop="datePublished" content="2022-11-15T10:00:00+03:00">
   <meta itemprop="dateModified" content="2022-11-15T10:00:00+03:00">
-  <meta itemprop="wordCount" content="815">
+  <meta itemprop="wordCount" content="1121">
   <meta itemprop="image" content="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRRpost.png">
   <meta itemprop="keywords" content="Operating Systems,Java,Scheduling Algorithms,Round Robin,Dynamic Round Robin,CPU Scheduling">
 
@@ -51,7 +51,7 @@
   <meta name="twitter:image" content="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRRpost.png">
   <meta name="twitter:title" content="Dynamic vs Normal Round Robin Scheduling Comparison">
   <meta name="twitter:description" content="Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.
-2. Project Structure The project consists of four main classes:">
+1.1 Understanding CPU Scheduling Before diving into the specifics of Round Robin algorithms, it’s essential to understand what CPU scheduling is:">
 
 
 
@@ -135,7 +135,12 @@
                 <div class="toc-title">Table of Contents</div>
                     <nav id="TableOfContents">
   <ul>
-    <li><a href="#1-introduction">1. Introduction</a></li>
+    <li><a href="#1-introduction">1. Introduction</a>
+      <ul>
+        <li><a href="#11-understanding-cpu-scheduling">1.1 Understanding CPU Scheduling</a></li>
+        <li><a href="#12-dynamic-round-robin-vs-normal-round-robin">1.2 Dynamic Round Robin vs Normal Round Robin</a></li>
+      </ul>
+    </li>
     <li><a href="#2-project-structure">2. Project Structure</a>
       <ul>
         <li><a href="#21-drr-main-class">2.1 DRR (Main Class)</a></li>
@@ -171,9 +176,47 @@
                 <img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRRpost.png" width=3000 height=500>
 <br>
 <p><a href="https://github.com/Mohaddz/Dynamic-Round-Robin">Github Repo</a>
-<img style="float: left;margin-right: 20px;" src="/images/github-mark-white.svg" width="30" height="30"/></p>
+<img style="float: left;margin-right: 20px;" src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/github-mark-white.svg" width="30" height="30"/></p>
 <h2 id="1-introduction">1. Introduction</h2>
 <p>CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.</p>
+<h3 id="11-understanding-cpu-scheduling">1.1 Understanding CPU Scheduling</h3>
+<p>Before diving into the specifics of Round Robin algorithms, it&rsquo;s essential to understand what CPU scheduling is:</p>
+<p>CPU scheduling is the process by which the operating system decides which process or thread should run on the CPU at any given time. The main goals of CPU scheduling are to:</p>
+<ol>
+<li>Maximize CPU utilization</li>
+<li>Ensure fair allocation of CPU time among processes</li>
+<li>Minimize response time for interactive users</li>
+<li>Maximize throughput (number of processes completed per unit time)</li>
+</ol>
+<p>Different scheduling algorithms aim to achieve these goals in various ways, each with its own strengths and trade-offs.</p>
+<h3 id="12-dynamic-round-robin-vs-normal-round-robin">1.2 Dynamic Round Robin vs Normal Round Robin</h3>
+<p>Both Dynamic and Normal Round Robin are variants of the basic Round Robin algorithm, which allocates a fixed time slice (quantum) to each process in a circular order. However, they differ in how they determine and use this time quantum:</p>
+<ol>
+<li>
+<p><strong>Normal Round Robin (NRR)</strong>:</p>
+<ul>
+<li>Uses a fixed time quantum for all processes</li>
+<li>Simple to implement and understand</li>
+<li>Can lead to longer waiting times for processes with varying CPU burst times</li>
+</ul>
+</li>
+<li>
+<p><strong>Dynamic Round Robin (DRR)</strong>:</p>
+<ul>
+<li>Adjusts the time quantum based on the current mix of processes in the ready queue</li>
+<li>Typically calculates the quantum as the average burst time of processes in the ready queue</li>
+<li>More adaptive to varying process requirements</li>
+<li>Generally results in better overall system performance, especially with a mix of short and long processes</li>
+</ul>
+</li>
+</ol>
+<p>Key Differences:</p>
+<ul>
+<li><em>Quantum Calculation</em>: NRR uses a predetermined fixed quantum, while DRR calculates it dynamically.</li>
+<li><em>Adaptability</em>: DRR adapts to the current workload, whereas NRR maintains the same quantum regardless of process characteristics.</li>
+<li><em>Performance</em>: DRR often shows improved average waiting time and turnaround time compared to NRR, especially in heterogeneous workloads.</li>
+</ul>
+<p>This project aims to implement and compare these two approaches, demonstrating the potential benefits of a more adaptive scheduling algorithm in modern computing environments.</p>
 <h2 id="2-project-structure">2. Project Structure</h2>
 <p>The project consists of four main classes:</p>
 <ol>
@@ -219,6 +262,7 @@
 </span></span><span style="display:flex;"><span>    <span style="color:#75715e">// ... (rest of the method)</span>
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><h2 id="4-sample-input">4. Sample Input</h2>
+<p>Raw.txt</p>
 <pre tabindex="0"><code>C 9 M=45 S=12
 A 10 J=1 M=5 S=4 R=8 P=1
 A 13 J=2 M=49 S=2 R=13 P=2

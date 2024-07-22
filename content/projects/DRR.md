@@ -15,16 +15,49 @@ tags:
 ---
 <img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRRpost.png" width=3000 height=500>
 
-
 <br>
 
 [Github Repo](https://github.com/Mohaddz/Dynamic-Round-Robin)
-<img style="float: left;margin-right: 20px;" src="/images/github-mark-white.svg" width="30" height="30"/> 
-
+<img style="float: left;margin-right: 20px;" src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/github-mark-white.svg" width="30" height="30"/> 
 
 ## 1. Introduction
 
 CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.
+
+### 1.1 Understanding CPU Scheduling
+
+Before diving into the specifics of Round Robin algorithms, it's essential to understand what CPU scheduling is:
+
+CPU scheduling is the process by which the operating system decides which process or thread should run on the CPU at any given time. The main goals of CPU scheduling are to:
+1. Maximize CPU utilization
+2. Ensure fair allocation of CPU time among processes
+3. Minimize response time for interactive users
+4. Maximize throughput (number of processes completed per unit time)
+
+Different scheduling algorithms aim to achieve these goals in various ways, each with its own strengths and trade-offs.
+
+### 1.2 Dynamic Round Robin vs Normal Round Robin
+
+Both Dynamic and Normal Round Robin are variants of the basic Round Robin algorithm, which allocates a fixed time slice (quantum) to each process in a circular order. However, they differ in how they determine and use this time quantum:
+
+1. **Normal Round Robin (NRR)**:
+   - Uses a fixed time quantum for all processes
+   - Simple to implement and understand
+   - Can lead to longer waiting times for processes with varying CPU burst times
+
+2. **Dynamic Round Robin (DRR)**:
+   - Adjusts the time quantum based on the current mix of processes in the ready queue
+   - Typically calculates the quantum as the average burst time of processes in the ready queue
+   - More adaptive to varying process requirements
+   - Generally results in better overall system performance, especially with a mix of short and long processes
+
+Key Differences:
+- *Quantum Calculation*: NRR uses a predetermined fixed quantum, while DRR calculates it dynamically.
+- *Adaptability*: DRR adapts to the current workload, whereas NRR maintains the same quantum regardless of process characteristics.
+- *Performance*: DRR often shows improved average waiting time and turnaround time compared to NRR, especially in heterogeneous workloads.
+
+This project aims to implement and compare these two approaches, demonstrating the potential benefits of a more adaptive scheduling algorithm in modern computing environments.
+
 
 ## 2. Project Structure
 
@@ -81,7 +114,7 @@ public void RoundRobinNormal(Queue<Process2> ReadyQ, PriorityQueue<Process2> Hol
 ```
 
 ## 4. Sample Input
-
+Raw.txt
 ```
 C 9 M=45 S=12
 A 10 J=1 M=5 S=4 R=8 P=1

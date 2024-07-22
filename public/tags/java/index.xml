@@ -27,7 +27,7 @@
       <link>https://example.com/projects/drr/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
       <guid>https://example.com/projects/drr/</guid>
-      <description>Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.&#xA;2. Project Structure The project consists of four main classes:</description>
+      <description>Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.&#xA;1.1 Understanding CPU Scheduling Before diving into the specifics of Round Robin algorithms, it&amp;rsquo;s essential to understand what CPU scheduling is:</description>
     </item>
   </channel>
 </rss>

@@ -60,12 +60,12 @@ Our lexical analyzer is implemented in Java and can recognize a wide variety of 
 - Operators
 - Punctuation
 
-<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/firstComp.png" width=500 height=500 class="center">
-<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/secondComp.png" width=500 height=500 class="center">
-<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/thirdComp.png" width=500 height=500 class="center">
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/firstComp.png" width=700 height=500 class="center">
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/secondComp.png" width=700 height=500 class="center">
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/thirdComp.png" width=700 height=500 class="center">
 
 ### Implemenation Details
-Here is the detailed implementaion of the lexical analyzer. Creadits goes to my colleague *Khalid AL-Ghamdi* <3.
+Here is the detailed implementaion of the lexical analyzer. Credits goes to my colleague **Khalid AL-Ghamdi** <3.
 
 <div class="scrollable-code">
 
