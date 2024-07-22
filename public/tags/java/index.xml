@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on AI Blog</title>
-    <link>http://localhost:1313/tags/java/</link>
+    <link>https://example.com/tags/java/</link>
     <description>Recent content in Java on AI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 May 2023 10:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Lexical Analyzer and SLR Parser in Java</title>
-      <link>http://localhost:1313/projects/compiler/</link>
+      <link>https://example.com/projects/compiler/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/projects/compiler/</guid>
+      <guid>https://example.com/projects/compiler/</guid>
       <description>Introduction In the realm of compiler design, two crucial components stand out: the Lexical Analyzer and the Parser. This project dives deep into implementing both, using Java as our weapon of choice. Let&amp;rsquo;s embark on this journey of transforming raw code into meaningful structures!&#xA;Part 1: The Lexical Analyzer What is a Lexical Analyzer? A lexical analyzer, often called a scanner or tokenizer, is the first phase of a compiler.</description>
     </item>
     <item>
       <title>Server-Client Character Occurrence Counter</title>
-      <link>http://localhost:1313/projects/hangman/</link>
+      <link>https://example.com/projects/hangman/</link>
       <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/projects/hangman/</guid>
+      <guid>https://example.com/projects/hangman/</guid>
       <description>Introduction This project implements a server-client program in Java that counts the occurrences of a specific character in a given string. The client sends a character and a string to the server, which then processes the request and returns the number of occurrences. This program utilizes TCP as the transport protocol, ensuring reliable and secure communication between the server and client.&#xA;Project Structure The project consists of two main components:</description>
     </item>
     <item>
       <title>Dynamic vs Normal Round Robin Scheduling Comparison</title>
-      <link>http://localhost:1313/projects/drr/</link>
+      <link>https://example.com/projects/drr/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/projects/drr/</guid>
+      <guid>https://example.com/projects/drr/</guid>
       <description>Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.&#xA;2. Project Structure The project consists of four main classes:</description>
     </item>
   </channel>

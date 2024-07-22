@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lexical Analysis on AI Blog</title>
-    <link>http://localhost:1313/tags/lexical-analysis/</link>
+    <link>https://example.com/tags/lexical-analysis/</link>
     <description>Recent content in Lexical Analysis on AI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 May 2023 10:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lexical-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/lexical-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Lexical Analyzer and SLR Parser in Java</title>
-      <link>http://localhost:1313/projects/compiler/</link>
+      <link>https://example.com/projects/compiler/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/projects/compiler/</guid>
+      <guid>https://example.com/projects/compiler/</guid>
       <description>Introduction In the realm of compiler design, two crucial components stand out: the Lexical Analyzer and the Parser. This project dives deep into implementing both, using Java as our weapon of choice. Let&amp;rsquo;s embark on this journey of transforming raw code into meaningful structures!&#xA;Part 1: The Lexical Analyzer What is a Lexical Analyzer? A lexical analyzer, often called a scanner or tokenizer, is the first phase of a compiler.</description>
     </item>
   </channel>

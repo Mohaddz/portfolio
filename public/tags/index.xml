@@ -2,178 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AI Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on AI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Jul 2024 22:57:31 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Untagged</title>
-      <link>http://localhost:1313/tags/untagged/</link>
+      <link>https://example.com/tags/untagged/</link>
       <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
-      <guid>http://localhost:1313/tags/untagged/</guid>
+      <guid>https://example.com/tags/untagged/</guid>
       <description></description>
     </item>
     <item>
       <title>Compiler Design</title>
-      <link>http://localhost:1313/tags/compiler-design/</link>
+      <link>https://example.com/tags/compiler-design/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/compiler-design/</guid>
+      <guid>https://example.com/tags/compiler-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>https://example.com/tags/java/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>https://example.com/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Lexical Analysis</title>
-      <link>http://localhost:1313/tags/lexical-analysis/</link>
+      <link>https://example.com/tags/lexical-analysis/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/lexical-analysis/</guid>
+      <guid>https://example.com/tags/lexical-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Parsing</title>
-      <link>http://localhost:1313/tags/parsing/</link>
+      <link>https://example.com/tags/parsing/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/parsing/</guid>
+      <guid>https://example.com/tags/parsing/</guid>
       <description></description>
     </item>
     <item>
       <title>SLR Parser</title>
-      <link>http://localhost:1313/tags/slr-parser/</link>
+      <link>https://example.com/tags/slr-parser/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/slr-parser/</guid>
+      <guid>https://example.com/tags/slr-parser/</guid>
       <description></description>
     </item>
     <item>
       <title>Dyslexia</title>
-      <link>http://localhost:1313/tags/dyslexia/</link>
+      <link>https://example.com/tags/dyslexia/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/dyslexia/</guid>
+      <guid>https://example.com/tags/dyslexia/</guid>
       <description></description>
     </item>
     <item>
       <title>Educational Games</title>
-      <link>http://localhost:1313/tags/educational-games/</link>
+      <link>https://example.com/tags/educational-games/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/educational-games/</guid>
+      <guid>https://example.com/tags/educational-games/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaFX</title>
-      <link>http://localhost:1313/tags/javafx/</link>
+      <link>https://example.com/tags/javafx/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/javafx/</guid>
+      <guid>https://example.com/tags/javafx/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning Disabilities</title>
-      <link>http://localhost:1313/tags/learning-disabilities/</link>
+      <link>https://example.com/tags/learning-disabilities/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/learning-disabilities/</guid>
+      <guid>https://example.com/tags/learning-disabilities/</guid>
       <description></description>
     </item>
     <item>
       <title>SQL</title>
-      <link>http://localhost:1313/tags/sql/</link>
+      <link>https://example.com/tags/sql/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/sql/</guid>
+      <guid>https://example.com/tags/sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Character Counting</title>
-      <link>http://localhost:1313/tags/character-counting/</link>
+      <link>https://example.com/tags/character-counting/</link>
       <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/character-counting/</guid>
+      <guid>https://example.com/tags/character-counting/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>http://localhost:1313/tags/networking/</link>
+      <link>https://example.com/tags/networking/</link>
       <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/networking/</guid>
+      <guid>https://example.com/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Server-Client</title>
-      <link>http://localhost:1313/tags/server-client/</link>
+      <link>https://example.com/tags/server-client/</link>
       <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/server-client/</guid>
+      <guid>https://example.com/tags/server-client/</guid>
       <description></description>
     </item>
     <item>
       <title>TCP/IP</title>
-      <link>http://localhost:1313/tags/tcp/ip/</link>
+      <link>https://example.com/tags/tcp/ip/</link>
       <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/tcp/ip/</guid>
+      <guid>https://example.com/tags/tcp/ip/</guid>
       <description></description>
     </item>
     <item>
       <title>CPU Scheduling</title>
-      <link>http://localhost:1313/tags/cpu-scheduling/</link>
+      <link>https://example.com/tags/cpu-scheduling/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/cpu-scheduling/</guid>
+      <guid>https://example.com/tags/cpu-scheduling/</guid>
       <description></description>
     </item>
     <item>
       <title>Dynamic Round Robin</title>
-      <link>http://localhost:1313/tags/dynamic-round-robin/</link>
+      <link>https://example.com/tags/dynamic-round-robin/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/dynamic-round-robin/</guid>
+      <guid>https://example.com/tags/dynamic-round-robin/</guid>
       <description></description>
     </item>
     <item>
       <title>Operating Systems</title>
-      <link>http://localhost:1313/tags/operating-systems/</link>
+      <link>https://example.com/tags/operating-systems/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/operating-systems/</guid>
+      <guid>https://example.com/tags/operating-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Round Robin</title>
-      <link>http://localhost:1313/tags/round-robin/</link>
+      <link>https://example.com/tags/round-robin/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/round-robin/</guid>
+      <guid>https://example.com/tags/round-robin/</guid>
       <description></description>
     </item>
     <item>
       <title>Scheduling Algorithms</title>
-      <link>http://localhost:1313/tags/scheduling-algorithms/</link>
+      <link>https://example.com/tags/scheduling-algorithms/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/scheduling-algorithms/</guid>
+      <guid>https://example.com/tags/scheduling-algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>Database Design</title>
-      <link>http://localhost:1313/tags/database-design/</link>
+      <link>https://example.com/tags/database-design/</link>
       <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/database-design/</guid>
+      <guid>https://example.com/tags/database-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Education Technology</title>
-      <link>http://localhost:1313/tags/education-technology/</link>
+      <link>https://example.com/tags/education-technology/</link>
       <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/education-technology/</guid>
+      <guid>https://example.com/tags/education-technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Oracle</title>
-      <link>http://localhost:1313/tags/oracle/</link>
+      <link>https://example.com/tags/oracle/</link>
       <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/oracle/</guid>
+      <guid>https://example.com/tags/oracle/</guid>
       <description></description>
     </item>
     <item>
       <title>SQL*Plus</title>
-      <link>http://localhost:1313/tags/sqlplus/</link>
+      <link>https://example.com/tags/sqlplus/</link>
       <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>http://localhost:1313/tags/sqlplus/</guid>
+      <guid>https://example.com/tags/sqlplus/</guid>
       <description></description>
     </item>
   </channel>

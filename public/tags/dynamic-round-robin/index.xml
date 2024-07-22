@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dynamic Round Robin on AI Blog</title>
-    <link>http://localhost:1313/tags/dynamic-round-robin/</link>
+    <link>https://example.com/tags/dynamic-round-robin/</link>
     <description>Recent content in Dynamic Round Robin on AI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Nov 2022 10:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dynamic-round-robin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/dynamic-round-robin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic vs Normal Round Robin Scheduling Comparison</title>
-      <link>http://localhost:1313/projects/drr/</link>
+      <link>https://example.com/projects/drr/</link>
       <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/projects/drr/</guid>
+      <guid>https://example.com/projects/drr/</guid>
       <description>Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.&#xA;2. Project Structure The project consists of four main classes:</description>
     </item>
   </channel>

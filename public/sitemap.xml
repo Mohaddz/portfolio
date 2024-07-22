@@ -2,114 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://example.com/posts/first-post/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/first-post/</loc>
+    <loc>https://example.com/research/first-post/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://example.com/research/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/untagged/</loc>
+    <loc>https://example.com/tags/untagged/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/compiler/</loc>
+    <loc>https://example.com/projects/compiler/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/compiler-design/</loc>
+    <loc>https://example.com/tags/compiler-design/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>https://example.com/tags/java/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lexical-analysis/</loc>
+    <loc>https://example.com/tags/lexical-analysis/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/parsing/</loc>
+    <loc>https://example.com/tags/parsing/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://example.com/projects/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/slr-parser/</loc>
+    <loc>https://example.com/tags/slr-parser/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dyslexia/</loc>
+    <loc>https://example.com/tags/dyslexia/</loc>
     <lastmod>2023-02-28T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/dyxfarm/</loc>
+    <loc>https://example.com/projects/dyxfarm/</loc>
     <lastmod>2023-02-28T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/educational-games/</loc>
+    <loc>https://example.com/tags/educational-games/</loc>
     <lastmod>2023-02-28T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/javafx/</loc>
+    <loc>https://example.com/tags/javafx/</loc>
     <lastmod>2023-02-28T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/learning-disabilities/</loc>
+    <loc>https://example.com/tags/learning-disabilities/</loc>
     <lastmod>2023-02-28T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>https://example.com/tags/sql/</loc>
     <lastmod>2023-02-28T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/character-counting/</loc>
+    <loc>https://example.com/tags/character-counting/</loc>
     <lastmod>2023-02-13T11:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/networking/</loc>
+    <loc>https://example.com/tags/networking/</loc>
     <lastmod>2023-02-13T11:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/server-client/</loc>
+    <loc>https://example.com/tags/server-client/</loc>
     <lastmod>2023-02-13T11:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/hangman/</loc>
+    <loc>https://example.com/projects/hangman/</loc>
     <lastmod>2023-02-13T11:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tcp/ip/</loc>
+    <loc>https://example.com/tags/tcp/ip/</loc>
     <lastmod>2023-02-13T11:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cpu-scheduling/</loc>
+    <loc>https://example.com/tags/cpu-scheduling/</loc>
     <lastmod>2022-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dynamic-round-robin/</loc>
+    <loc>https://example.com/tags/dynamic-round-robin/</loc>
     <lastmod>2022-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/drr/</loc>
+    <loc>https://example.com/projects/drr/</loc>
     <lastmod>2022-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/operating-systems/</loc>
+    <loc>https://example.com/tags/operating-systems/</loc>
     <lastmod>2022-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/round-robin/</loc>
+    <loc>https://example.com/tags/round-robin/</loc>
     <lastmod>2022-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scheduling-algorithms/</loc>
+    <loc>https://example.com/tags/scheduling-algorithms/</loc>
     <lastmod>2022-11-15T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/first-post/</loc>
+    <loc>https://example.com/projects/first-post/</loc>
     <lastmod>2022-04-09T23:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/database-design/</loc>
+    <loc>https://example.com/tags/database-design/</loc>
     <lastmod>2022-04-09T23:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/education-technology/</loc>
+    <loc>https://example.com/tags/education-technology/</loc>
     <lastmod>2022-04-09T23:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/oracle/</loc>
+    <loc>https://example.com/tags/oracle/</loc>
     <lastmod>2022-04-09T23:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sqlplus/</loc>
+    <loc>https://example.com/tags/sqlplus/</loc>
     <lastmod>2022-04-09T23:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
   </url>
 </urlset>
