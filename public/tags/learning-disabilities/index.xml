@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Disabilities on AI Blog</title>
+    <link>https://example.com/tags/learning-disabilities/</link>
+    <description>Recent content in Learning Disabilities on AI Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Feb 2023 10:00:00 +0300</lastBuildDate>
+    <atom:link href="https://example.com/tags/learning-disabilities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dyslexia Farm: Educational Game for Spelling Disabilities</title>
+      <link>https://example.com/projects/dyxfarm/</link>
+      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
+      <guid>https://example.com/projects/dyxfarm/</guid>
+      <description>Github Repo Project Overview Dyslexia Farm is an educational game designed to help children with spelling disabilities, particularly dyslexia. The game provides an attractive and interactive platform for children to practice spelling and word recognition, aiming to improve their reading and writing skills.&#xA;Key Features Two main games: Words Game and Spelling Game User-friendly interface designed for children Multilingual support (English and Arabic) Performance tracking and reporting Adjustable difficulty levels Technology Stack Frontend: JavaFX Backend: SQL (for data storage and retrieval) Project Structure The project consists of several Java classes and FXML files, each serving a specific purpose in the game&amp;rsquo;s functionality:</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structures on AI Blog</title>
+    <link>http://localhost:1313/tags/data-structures/</link>
+    <description>Recent content in Data Structures on AI Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 10:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic vs Normal Round Robin Scheduling Comparison</title>
+      <link>http://localhost:1313/projects/drr/</link>
+      <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/projects/drr/</guid>
+      <description>Project Overview This Operating System project compares two types of scheduling algorithms: Dynamic Round Robin and Normal Round Robin. The project aims to demonstrate the differences in performance and behavior between these two scheduling approaches.&#xA;Key Features Implementation of both Dynamic and Normal Round Robin scheduling Use of various Java data structures (Queue, PriorityQueue, ArrayList) Simulation of process scheduling with configurable system resources Comparison of scheduling performance metrics Technology Used Java: Core programming language used for implementation Java Collections Framework: Utilized for various data structures File I/O: For reading input data Project Structure The project consists of four main classes:</description>
+    </item>
+  </channel>
+</rss>

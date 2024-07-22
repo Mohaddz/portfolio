@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on AI Blog</title>
+    <link>https://example.com/tags/sql/</link>
+    <description>Recent content in SQL on AI Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Feb 2023 10:00:00 +0300</lastBuildDate>
+    <atom:link href="https://example.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dyslexia Farm: Educational Game for Spelling Disabilities</title>
+      <link>https://example.com/projects/dyxfarm/</link>
+      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
+      <guid>https://example.com/projects/dyxfarm/</guid>
+      <description>Github Repo Project Overview Dyslexia Farm is an educational game designed to help children with spelling disabilities, particularly dyslexia. The game provides an attractive and interactive platform for children to practice spelling and word recognition, aiming to improve their reading and writing skills.&#xA;Key Features Two main games: Words Game and Spelling Game User-friendly interface designed for children Multilingual support (English and Arabic) Performance tracking and reporting Adjustable difficulty levels Technology Stack Frontend: JavaFX Backend: SQL (for data storage and retrieval) Project Structure The project consists of several Java classes and FXML files, each serving a specific purpose in the game&amp;rsquo;s functionality:</description>
+    </item>
+    <item>
+      <title>Comprehensive School Database System</title>
+      <link>https://example.com/projects/first-post/</link>
+      <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
+      <guid>https://example.com/projects/first-post/</guid>
+      <description>Project Overview As one of my first significant projects, I designed and implemented a comprehensive database system for a school environment using Oracle SQL. This project aimed to create a robust, scalable database that could efficiently manage various aspects of school operations, including student information, course management, employee data, library resources, and academic performance tracking.&#xA;Key Features Comprehensive data model covering multiple school domains Complex relationships between entities (e.g., students, courses, employees, library) Implementation of various constraints to ensure data integrity Use of advanced SQL features like cascading deletes and virtual columns Technology Used Oracle SQL: Used for designing and implementing the database schema, including tables, relationships, and constraints.</description>
+    </item>
+  </channel>
+</rss>

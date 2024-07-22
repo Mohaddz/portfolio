@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on AI Blog</title>
+    <link>https://example.com/projects/</link>
+    <description>Recent content in Projects on AI Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2023 10:00:00 +0300</lastBuildDate>
+    <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Lexical Analyzer and SLR Parser in Java</title>
+      <link>https://example.com/projects/compiler/</link>
+      <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
+      <guid>https://example.com/projects/compiler/</guid>
+      <description>Introduction In the realm of compiler design, two crucial components stand out: the Lexical Analyzer and the Parser. This project dives deep into implementing both, using Java as our weapon of choice. Let&amp;rsquo;s embark on this journey of transforming raw code into meaningful structures!&#xA;Part 1: The Lexical Analyzer What is a Lexical Analyzer? A lexical analyzer, often called a scanner or tokenizer, is the first phase of a compiler.</description>
+    </item>
+    <item>
+      <title>Dyslexia Farm: Educational Game for Spelling Disabilities</title>
+      <link>https://example.com/projects/dyxfarm/</link>
+      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
+      <guid>https://example.com/projects/dyxfarm/</guid>
+      <description>Github Repo Project Overview Dyslexia Farm is an educational game designed to help children with spelling disabilities, particularly dyslexia. The game provides an attractive and interactive platform for children to practice spelling and word recognition, aiming to improve their reading and writing skills.&#xA;Key Features Two main games: Words Game and Spelling Game User-friendly interface designed for children Multilingual support (English and Arabic) Performance tracking and reporting Adjustable difficulty levels Technology Stack Frontend: JavaFX Backend: SQL (for data storage and retrieval) Project Structure The project consists of several Java classes and FXML files, each serving a specific purpose in the game&amp;rsquo;s functionality:</description>
+    </item>
+    <item>
+      <title>Server-Client Character Occurrence Counter</title>
+      <link>https://example.com/projects/hangman/</link>
+      <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
+      <guid>https://example.com/projects/hangman/</guid>
+      <description>Introduction This project implements a server-client program in Java that counts the occurrences of a specific character in a given string. The client sends a character and a string to the server, which then processes the request and returns the number of occurrences. This program utilizes TCP as the transport protocol, ensuring reliable and secure communication between the server and client.&#xA;Project Structure The project consists of two main components:</description>
+    </item>
+    <item>
+      <title>Dynamic vs Normal Round Robin Scheduling Comparison</title>
+      <link>https://example.com/projects/drr/</link>
+      <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
+      <guid>https://example.com/projects/drr/</guid>
+      <description>Github Repo 1. Introduction CPU scheduling is a crucial aspect of operating systems, allowing efficient utilization of CPU and I/O resources. This project implements and compares two variations of the Round Robin (RR) algorithm: Normal Round Robin and Dynamic Round Robin. The Round Robin algorithm is designed for time-sharing systems, allowing processes to use the CPU for a fixed time quantum before switching to the next process.&#xA;2. Project Structure The project consists of four main classes:</description>
+    </item>
+    <item>
+      <title>Comprehensive School Database System</title>
+      <link>https://example.com/projects/first-post/</link>
+      <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
+      <guid>https://example.com/projects/first-post/</guid>
+      <description>Project Overview As one of my first significant projects, I designed and implemented a comprehensive database system for a school environment using Oracle SQL. This project aimed to create a robust, scalable database that could efficiently manage various aspects of school operations, including student information, course management, employee data, library resources, and academic performance tracking.&#xA;Key Features Comprehensive data model covering multiple school domains Complex relationships between entities (e.g., students, courses, employees, library) Implementation of various constraints to ensure data integrity Use of advanced SQL features like cascading deletes and virtual columns Technology Used Oracle SQL: Used for designing and implementing the database schema, including tables, relationships, and constraints.</description>
+    </item>
+  </channel>
+</rss>
