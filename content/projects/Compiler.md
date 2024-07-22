@@ -13,7 +13,7 @@ tags:
   - SLR Parser
 ---
 
-<img src="./static/images/Lexicalanal.png" width=500 height=500 class="center">
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Lexicalanal.png" width=500 height=500 class="center">
 
 <style>
 .scrollable-code {
