@@ -4,7 +4,7 @@ date: 2023-02-28T10:00:00+03:00
 draft: false
 toc: true
 images:
-  - "/images/Dyslexic.png"
+  - "https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Dyslexic.png"
 tags:
   - Educational Games
   - Dyslexia
@@ -13,12 +13,12 @@ tags:
   - Learning Disabilities
 ---
 
-<img src="/images/Dyslexic.png" width=3000 height=500>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Dyslexic.png" width=3000 height=500>
 
 <br>
 
 [Github Repo](https://github.com/Mohaddz/dyslexiaGame)
-<img style="float: left;margin-right: 20px;" src="/images/github-mark-white.svg" width="30" height="30"/> 
+<img style="float: left;margin-right: 20px;" src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/github-mark-white.svg" width="30" height="30"/> 
 
 ## Project Overview
 

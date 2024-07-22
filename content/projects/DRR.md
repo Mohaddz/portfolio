@@ -4,7 +4,7 @@ date: 2022-11-15T10:00:00+03:00
 draft: false
 toc: true
 images:
-  - "/images/DRRpost.png"
+  - "https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRRpost.png"
 tags:
   - Operating Systems
   - Java
@@ -13,7 +13,7 @@ tags:
   - Dynamic Round Robin
   - CPU Scheduling
 ---
-<img src="/images/DRRpost.png" width=3000 height=500>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRRpost.png" width=3000 height=500>
 
 
 <br>
@@ -117,10 +117,10 @@ This input file defines the system configuration and processes to be scheduled.
 ### Performance Metrics
 
 #### Average Waiting Time Comparison
-<img src="/images/DRR11.jpg" width=700 height=300>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRR11.jpg" width=700 height=300>
 
 #### Average Turnaround Time Comparison
-<img src="/images/DRR22.jpg" width=700 height=300>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/DRR22.jpg" width=700 height=300>
 
 ### Output
 

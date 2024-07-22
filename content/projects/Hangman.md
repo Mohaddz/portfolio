@@ -4,7 +4,7 @@ date: 2023-02-13T11:00:00+03:00
 draft: false
 toc: true
 images:
-  - "/images/Servermeme.png"
+  - "https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Servermeme.png"
 tags:
   - Java
   - Networking
@@ -13,7 +13,7 @@ tags:
   - Character Counting
 ---
 
-<img src="/images/Servermeme.png" width=3000 height=500>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Servermeme.png" width=3000 height=500>
 
 ## Introduction
 
@@ -90,10 +90,10 @@ This method iterates through the input string, comparing each character (case-in
 ## Sample Output
 
 ### Server Output
-<img src="/images/Serverout.jpg" alt="Server Output" width="600">
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Serverout.jpg" alt="Server Output" width="600">
 
 ### Client Output
-<img src="/images/Clientout.jpg" alt="Client Output" width="600">
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Clientout.jpg" alt="Client Output" width="600">
 
 ## Conclusion
 
