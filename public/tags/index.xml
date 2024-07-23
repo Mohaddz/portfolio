@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on AI Blog</title>
+    <title>Tags on AI Portfolio</title>
     <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on AI Blog</description>
+    <description>Recent content in Tags on AI Portfolio</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 09 Jul 2024 22:57:31 +0300</lastBuildDate>
     <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -76,104 +77,6 @@
       <link>https://example.com/tags/learning-disabilities/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
       <guid>https://example.com/tags/learning-disabilities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SQL</title>
-      <link>https://example.com/tags/sql/</link>
-      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/sql/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Character Counting</title>
-      <link>https://example.com/tags/character-counting/</link>
-      <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/character-counting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Networking</title>
-      <link>https://example.com/tags/networking/</link>
-      <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/networking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Server-Client</title>
-      <link>https://example.com/tags/server-client/</link>
-      <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/server-client/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TCP/IP</title>
-      <link>https://example.com/tags/tcp/ip/</link>
-      <pubDate>Mon, 13 Feb 2023 11:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/tcp/ip/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CPU Scheduling</title>
-      <link>https://example.com/tags/cpu-scheduling/</link>
-      <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/cpu-scheduling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dynamic Round Robin</title>
-      <link>https://example.com/tags/dynamic-round-robin/</link>
-      <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/dynamic-round-robin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Operating Systems</title>
-      <link>https://example.com/tags/operating-systems/</link>
-      <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/operating-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Round Robin</title>
-      <link>https://example.com/tags/round-robin/</link>
-      <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/round-robin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scheduling Algorithms</title>
-      <link>https://example.com/tags/scheduling-algorithms/</link>
-      <pubDate>Tue, 15 Nov 2022 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/scheduling-algorithms/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Database Design</title>
-      <link>https://example.com/tags/database-design/</link>
-      <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>https://example.com/tags/database-design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Education Technology</title>
-      <link>https://example.com/tags/education-technology/</link>
-      <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>https://example.com/tags/education-technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oracle</title>
-      <link>https://example.com/tags/oracle/</link>
-      <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>https://example.com/tags/oracle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SQL*Plus</title>
-      <link>https://example.com/tags/sqlplus/</link>
-      <pubDate>Sat, 09 Apr 2022 23:30:00 +0300</pubDate>
-      <guid>https://example.com/tags/sqlplus/</guid>
       <description></description>
     </item>
   </channel>

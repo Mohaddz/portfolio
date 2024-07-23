@@ -5,16 +5,16 @@
     <loc>https://example.com/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/first-post/</loc>
-    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
-  </url><url>
-    <loc>https://example.com/research/first-post/</loc>
-    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
-  </url><url>
     <loc>https://example.com/posts/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
     <loc>https://example.com/research/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/2024/07/soon/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/research/first-post/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
@@ -22,6 +22,9 @@
   </url><url>
     <loc>https://example.com/tags/untagged/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/projects/compiler/</loc>
     <lastmod>2023-05-21T10:00:00+03:00</lastmod>

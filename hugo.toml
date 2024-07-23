@@ -1,13 +1,102 @@
 baseURL = "https://example.com"
-title   = "AI Blog"
+title   = "AI Portfolio"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-      
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+paginate  = 10
+rssLimit  = 10
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  description = "A blog about Artificial Intelligence and Machine Learning"
+  keywords = "AI, Machine Learning, Data Science, Computer Science"
+  images = [""]
+
+  # Home subtitle of the index page.
+  homeSubtitle = "Exploring the world of AI"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable theme toggle
+  enableThemeToggle = true
+
+  # Enable sharing buttons
+  enableSharingButtons = true
+
+  # Enable global language menu
+  enableGlobalLanguageMenu = false
+
+  # Custom CSS and JS
+  customCSS = []
+  customJS  = []
+
+  # Author info for home page
+  [params.author]
+    name = "Mohammed"
+    bio = "Recent Computer Science graduate with a passion for AI and machine learning. Experienced in Python, Java, and web development. Always eager to learn and tackle new challenges in the tech world."
+
+  [params.footer]
+    trademark = 2024
+    rss = false
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+
+    ]
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /Mohad/"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:you@example.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/Mohaddz"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/namri"
+
+[languages]
+  [languages.en]
+    weight = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
 [menu]
   [[menu.main]]
     identifier = "about"
