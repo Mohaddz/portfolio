@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AI Portfolio</title>
-    <link>https://example.com/tags/</link>
+    <link>http://localhost:1313/portfolio/tags/</link>
     <description>Recent content in Tags on AI Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 09 Jul 2024 22:57:31 +0300</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Untagged</title>
-      <link>https://example.com/tags/untagged/</link>
+      <link>http://localhost:1313/portfolio/tags/untagged/</link>
       <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
-      <guid>https://example.com/tags/untagged/</guid>
+      <guid>http://localhost:1313/portfolio/tags/untagged/</guid>
       <description></description>
     </item>
     <item>
       <title>Compiler Design</title>
-      <link>https://example.com/tags/compiler-design/</link>
+      <link>http://localhost:1313/portfolio/tags/compiler-design/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/compiler-design/</guid>
+      <guid>http://localhost:1313/portfolio/tags/compiler-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://example.com/tags/java/</link>
+      <link>http://localhost:1313/portfolio/tags/java/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/java/</guid>
+      <guid>http://localhost:1313/portfolio/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Lexical Analysis</title>
-      <link>https://example.com/tags/lexical-analysis/</link>
+      <link>http://localhost:1313/portfolio/tags/lexical-analysis/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/lexical-analysis/</guid>
+      <guid>http://localhost:1313/portfolio/tags/lexical-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Parsing</title>
-      <link>https://example.com/tags/parsing/</link>
+      <link>http://localhost:1313/portfolio/tags/parsing/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/parsing/</guid>
+      <guid>http://localhost:1313/portfolio/tags/parsing/</guid>
       <description></description>
     </item>
     <item>
       <title>SLR Parser</title>
-      <link>https://example.com/tags/slr-parser/</link>
+      <link>http://localhost:1313/portfolio/tags/slr-parser/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/slr-parser/</guid>
+      <guid>http://localhost:1313/portfolio/tags/slr-parser/</guid>
       <description></description>
     </item>
     <item>
       <title>Dyslexia</title>
-      <link>https://example.com/tags/dyslexia/</link>
+      <link>http://localhost:1313/portfolio/tags/dyslexia/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/dyslexia/</guid>
+      <guid>http://localhost:1313/portfolio/tags/dyslexia/</guid>
       <description></description>
     </item>
     <item>
       <title>Educational Games</title>
-      <link>https://example.com/tags/educational-games/</link>
+      <link>http://localhost:1313/portfolio/tags/educational-games/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/educational-games/</guid>
+      <guid>http://localhost:1313/portfolio/tags/educational-games/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaFX</title>
-      <link>https://example.com/tags/javafx/</link>
+      <link>http://localhost:1313/portfolio/tags/javafx/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/javafx/</guid>
+      <guid>http://localhost:1313/portfolio/tags/javafx/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning Disabilities</title>
-      <link>https://example.com/tags/learning-disabilities/</link>
+      <link>http://localhost:1313/portfolio/tags/learning-disabilities/</link>
       <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>https://example.com/tags/learning-disabilities/</guid>
+      <guid>http://localhost:1313/portfolio/tags/learning-disabilities/</guid>
       <description></description>
     </item>
   </channel>

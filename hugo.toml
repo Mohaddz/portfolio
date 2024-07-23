@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://mohaddz.github.io/portfolio/"
 title   = "AI Portfolio"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -73,7 +73,7 @@ disable404     = false
   [params.logo]
     logoMark     = ">"
     logoText     = "$ cd /Mohad/"
-    logoHomeLink = "/"
+    logoHomeLink = "/portfolio/"
 
   # Social icons
   [[params.social]]
