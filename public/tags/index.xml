@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on AI Portfolio</title>
+    <title>Tags on Portfolio</title>
     <link>http://localhost:1313/portfolio/tags/</link>
-    <description>Recent content in Tags on AI Portfolio</description>
+    <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 09 Jul 2024 22:57:31 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/portfolio/tags/ai/</link>
+      <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CGAN</title>
+      <link>http://localhost:1313/portfolio/tags/cgan/</link>
+      <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/tags/cgan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/portfolio/tags/deep-learning/</link>
+      <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DICOM</title>
+      <link>http://localhost:1313/portfolio/tags/dicom/</link>
+      <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/tags/dicom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medical Imaging</title>
+      <link>http://localhost:1313/portfolio/tags/medical-imaging/</link>
+      <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Untagged</title>
       <link>http://localhost:1313/portfolio/tags/untagged/</link>
@@ -42,41 +77,6 @@
       <link>http://localhost:1313/portfolio/tags/parsing/</link>
       <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
       <guid>http://localhost:1313/portfolio/tags/parsing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SLR Parser</title>
-      <link>http://localhost:1313/portfolio/tags/slr-parser/</link>
-      <pubDate>Sun, 21 May 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/slr-parser/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dyslexia</title>
-      <link>http://localhost:1313/portfolio/tags/dyslexia/</link>
-      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/dyslexia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Educational Games</title>
-      <link>http://localhost:1313/portfolio/tags/educational-games/</link>
-      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/educational-games/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JavaFX</title>
-      <link>http://localhost:1313/portfolio/tags/javafx/</link>
-      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/javafx/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Learning Disabilities</title>
-      <link>http://localhost:1313/portfolio/tags/learning-disabilities/</link>
-      <pubDate>Tue, 28 Feb 2023 10:00:00 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/tags/learning-disabilities/</guid>
       <description></description>
     </item>
   </channel>

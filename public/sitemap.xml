@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/portfolio/tags/ai/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/cgan/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/deep-learning/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/dicom/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/medical-imaging/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
@@ -14,13 +29,13 @@
     <loc>http://localhost:1313/portfolio/posts/2024/07/soon/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/research/first-post/</loc>
-    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/portfolio/tags/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/tags/untagged/</loc>
+    <lastmod>2024-07-09T22:57:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/research/first-post/</loc>
     <lastmod>2024-07-09T22:57:31+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/about/</loc>

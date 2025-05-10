@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Imaging on Portfolio</title>
+    <link>http://localhost:1313/portfolio/tags/medical-imaging/</link>
+    <description>Recent content in Medical Imaging on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 09 Jul 2024 22:57:31 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vision&#43;: Enhancing Medical Imaging with AI</title>
+      <link>http://localhost:1313/portfolio/research/first-post/</link>
+      <pubDate>Tue, 09 Jul 2024 22:57:31 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/research/first-post/</guid>
+      <description>During my studies in Computer Science at King Abdulaziz University (KAU), I led a capstone project with my teammates Muhanna Al-Muhanna and Osama Abdulaziz Al-Dosari. Together, we built Vision+, an AI-powered DICOM viewer that enhances low-dose CT scans, aiming to improve image clarity and assist radiologists in making more accurate diagnoses.&#xA;The Problem: Low-Dose CT Scans and Image Noise CT scans are essential for diagnosis, but reducing radiation exposure (using Low-Dose CT) often leads to noisy, lower-quality images.</description>
+    </item>
+  </channel>
+</rss>

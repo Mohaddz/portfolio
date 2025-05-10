@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="" />
-<meta name="keywords" content="AI, Machine Learning, Data Science, Computer Science, untagged" />
+<meta name="description" content="During my studies in Computer Science at King Abdulaziz University (KAU), I led a capstone project with my teammates Muhanna Al-Muhanna and Osama Abdulaziz Al-Dosari. Together, we built Vision&#43;, an AI-powered DICOM viewer that enhances low-dose CT scans, aiming to improve image clarity and assist radiologists in making more accurate diagnoses.
+The Problem: Low-Dose CT Scans and Image Noise CT scans are essential for diagnosis, but reducing radiation exposure (using Low-Dose CT) often leads to noisy, lower-quality images." />
+<meta name="keywords" content="AI, Machine Learning, Data Science, Computer Science, AI, Medical Imaging, Deep Learning, cGAN, DICOM" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
 <link rel="canonical" href="http://localhost:1313/portfolio/research/first-post/" />
@@ -15,7 +16,7 @@
 
     <title>
         
-            soon :: AI Portfolio 
+            Vision&#43;: Enhancing Medical Imaging with AI :: Portfolio 
         
     </title>
 
@@ -37,17 +38,20 @@
 
 
 
-  <meta itemprop="name" content="soon">
-  <meta itemprop="description" content="A blog about Artificial Intelligence and Machine Learning">
+  <meta itemprop="name" content="Vision&#43;: Enhancing Medical Imaging with AI">
+  <meta itemprop="description" content="During my studies in Computer Science at King Abdulaziz University (KAU), I led a capstone project with my teammates Muhanna Al-Muhanna and Osama Abdulaziz Al-Dosari. Together, we built Vision&#43;, an AI-powered DICOM viewer that enhances low-dose CT scans, aiming to improve image clarity and assist radiologists in making more accurate diagnoses.
+The Problem: Low-Dose CT Scans and Image Noise CT scans are essential for diagnosis, but reducing radiation exposure (using Low-Dose CT) often leads to noisy, lower-quality images.">
   <meta itemprop="datePublished" content="2024-07-09T22:57:31+03:00">
   <meta itemprop="dateModified" content="2024-07-09T22:57:31+03:00">
-  <meta itemprop="image" content="http://localhost:1313/portfolio/">
-  <meta itemprop="keywords" content="Untagged">
+  <meta itemprop="wordCount" content="467">
+  <meta itemprop="image" content="http://localhost:1313/static/images/cat_in_currents.png">
+  <meta itemprop="keywords" content="AI,Medical Imaging,Deep Learning,CGAN,DICOM">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/portfolio/">
-  <meta name="twitter:title" content="soon">
-  <meta name="twitter:description" content="A blog about Artificial Intelligence and Machine Learning">
+  <meta name="twitter:image" content="http://localhost:1313/static/images/cat_in_currents.png">
+  <meta name="twitter:title" content="Vision&#43;: Enhancing Medical Imaging with AI">
+  <meta name="twitter:description" content="During my studies in Computer Science at King Abdulaziz University (KAU), I led a capstone project with my teammates Muhanna Al-Muhanna and Osama Abdulaziz Al-Dosari. Together, we built Vision&#43;, an AI-powered DICOM viewer that enhances low-dose CT scans, aiming to improve image clarity and assist radiologists in making more accurate diagnoses.
+The Problem: Low-Dose CT Scans and Image Noise CT scans are essential for diagnosis, but reducing radiation exposure (using Low-Dose CT) often leads to noisy, lower-quality images.">
 
 
 
@@ -126,14 +130,91 @@
         </div>
 
         <article>
-            <h2 class="post-title"><a href="http://localhost:1313/portfolio/research/first-post/">soon</a></h2>
+            <h2 class="post-title"><a href="http://localhost:1313/portfolio/research/first-post/">Vision+: Enhancing Medical Imaging with AI</a></h2>
 
             
             
+            
+                <hr />
+                <aside id="toc">
+                <div class="toc-title">Table of Contents</div>
+                    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-problem-low-dose-ct-scans-and-image-noise">The Problem: Low-Dose CT Scans and Image Noise</a></li>
+    <li><a href="#our-solution-ai-enhanced-dicom-viewer">Our Solution: AI-Enhanced DICOM Viewer</a>
+      <ul>
+        <li><a href="#how-the-ai-works">How the AI Works</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-application-web-based-viewer">The Application: Web-Based Viewer</a></li>
+    <li><a href="#results">Results</a>
+      <ul>
+        <li><a href="#clearer-images-better-diagnostics">Clearer Images, Better Diagnostics</a></li>
+      </ul>
+    </li>
+    <li><a href="#why-it-matters">Why It Matters</a></li>
+    <li><a href="#whats-next">What’s Next</a></li>
+  </ul>
+</nav>
+                </aside>
+                <hr />
             
 
             <div class="post-content">
-                
+                <p>During my studies in Computer Science at King Abdulaziz University (KAU), I led a capstone project with my teammates Muhanna Al-Muhanna and Osama Abdulaziz Al-Dosari. Together, we built <strong>Vision+</strong>, an <strong>AI-powered DICOM viewer</strong> that enhances low-dose CT scans, aiming to improve image clarity and assist radiologists in making more accurate diagnoses.</p>
+<h2 id="the-problem-low-dose-ct-scans-and-image-noise">The Problem: Low-Dose CT Scans and Image Noise</h2>
+<p>CT scans are essential for diagnosis, but reducing radiation exposure (using Low-Dose CT) often leads to noisy, lower-quality images. This noise can obscure critical details, making diagnosis more difficult. Our goal was to enhance these low-dose images without increasing radiation, helping doctors get the best of both worlds: safer scans and clearer results.</p>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/LowvsFUL.png" width=700 height=500 class="center">
+<h2 id="our-solution-ai-enhanced-dicom-viewer">Our Solution: AI-Enhanced DICOM Viewer</h2>
+<p>We created a smart, web-based DICOM viewer that automatically denoises low-dose CT images using AI. At its core is a <strong>Conditional Generative Adversarial Network (cGAN)</strong> trained to transform noisy images into clearer ones.</p>
+<h3 id="how-the-ai-works">How the AI Works</h3>
+<p>We used a cGAN architecture composed of two neural networks:</p>
+<ul>
+<li><strong>Generator (U-Net-based):</strong> Takes a noisy CT scan and produces a cleaned-up version.</li>
+</ul>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Generator.png" width=700 height=500 class="center">
+<ul>
+<li><strong>Discriminator (PatchGAN):</strong> Tries to distinguish real high-quality images from those generated by the model.</li>
+</ul>
+<p>By training both networks together, the generator learned to produce realistic, denoised images that closely resemble normal-dose scans.</p>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/GAN.png" width=700 height=500 class="center">
+### Dataset
+<p>We trained our model using the <a href="https://www.kaggle.com/datasets/nih-aapm-mayo-clinic-low-dose-ct-grand-challenge"><strong>2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge</strong></a> dataset, which includes both full-dose and simulated quarter-dose CT scans for 10 anonymous patients. The model learned to map noisy images to their clear counterparts using this paired data.</p>
+<h2 id="the-application-web-based-viewer">The Application: Web-Based Viewer</h2>
+<p>We built a full-stack application to make our AI accessible and user-friendly for medical professionals:</p>
+<ul>
+<li><strong>Frontend:</strong> Developed in <strong>ReactJS</strong> using <strong>CornerstoneJS</strong> for interactive DICOM rendering.</li>
+<li><strong>Backend &amp; AI:</strong> The denoising model was implemented in <strong>Python</strong> with <strong>TensorFlow</strong> and deployed on a server to handle inference.</li>
+</ul>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Highlevelview.png" width=700 height=500 class="center">
+<h2 id="results">Results</h2>
+<h3 id="clearer-images-better-diagnostics">Clearer Images, Better Diagnostics</h3>
+<p>The AI-enhanced scans were significantly sharper than the originals. Key diagnostic features—like tumors in liver scans—became easier to detect after denoising.</p>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/Results of SAGAN2.png" width=700 height=500 class="center">
+### Quantitative Performance
+<ul>
+<li><strong>PSNR (Peak Signal-to-Noise Ratio):</strong> Improved from ~22.68 to <strong>40.41</strong></li>
+<li><strong>SSIM (Structural Similarity Index):</strong> Reached <strong>92.5%</strong>, indicating strong structural preservation</li>
+</ul>
+<img src="https://raw.githubusercontent.com/Mohaddz/portfolio/master/static/images/compared-results.png" width=700 height=500 class="center">
+<p>These metrics confirm the model&rsquo;s ability to reduce noise while maintaining important image details.</p>
+<h2 id="why-it-matters">Why It Matters</h2>
+<p>Vision+ has the potential to:</p>
+<ul>
+<li><strong>Improve patient safety</strong> by supporting lower radiation protocols</li>
+<li><strong>Support radiologists</strong> with clearer visuals and improved workflow</li>
+<li><strong>Enable earlier detection</strong> of subtle conditions</li>
+<li><strong>Lay the groundwork</strong> for future AI-assisted diagnosis tools</li>
+</ul>
+<h2 id="whats-next">What’s Next</h2>
+<p>This project was a solid proof-of-concept with plenty of room to grow. Possible next steps include:</p>
+<ul>
+<li><strong>Adding features like automatic segmentation and tumor detection</strong></li>
+<li><strong>Improving the model</strong> with newer architectures and larger datasets</li>
+</ul>
+<p>Working on this project reinforced my passion for using AI in healthcare and gave me practical experience building a real-world, AI-powered tool. I’m excited to keep building on this foundation.</p>
+<hr>
+
             </div>
         </article>
 
@@ -144,7 +225,11 @@
     <p>
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
 
-        <span class="tag"><a href="http://localhost:1313/portfolio/tags/untagged/">untagged</a></span>
+        <span class="tag"><a href="http://localhost:1313/portfolio/tags/ai/">AI</a></span>
+        <span class="tag"><a href="http://localhost:1313/portfolio/tags/medical-imaging/">Medical Imaging</a></span>
+        <span class="tag"><a href="http://localhost:1313/portfolio/tags/deep-learning/">Deep Learning</a></span>
+        <span class="tag"><a href="http://localhost:1313/portfolio/tags/cgan/">cGAN</a></span>
+        <span class="tag"><a href="http://localhost:1313/portfolio/tags/dicom/">DICOM</a></span>
         
     </p>
 

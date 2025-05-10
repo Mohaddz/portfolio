@@ -1,5 +1,5 @@
 baseURL = "https://mohaddz.github.io/portfolio/"
-title   = "AI Portfolio"
+title   = "Portfolio"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -33,10 +33,10 @@ disable404     = false
   # Metadata mostly used in document's head
   description = "A blog about Artificial Intelligence and Machine Learning"
   keywords = "AI, Machine Learning, Data Science, Computer Science"
-  images = [""]
+  images = ["/static/images/cat_in_currents.png"]
 
   # Home subtitle of the index page.
-  homeSubtitle = "Exploring the world of AI"
+  homeSubtitle = "CS grad from KAU"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -57,7 +57,7 @@ disable404     = false
   # Author info for home page
   [params.author]
     name = "Mohammed"
-    bio = "Recent Computer Science graduate with a passion for AI and machine learning. Experienced in Python, Java, and web development. Always eager to learn and tackle new challenges in the tech world."
+    bio = "Computer Science graduate with a passion for AI and machine learning. Experienced in Python, Java, and web development. Always eager to learn and tackle new challenges in the tech world."
 
   [params.footer]
     trademark = 2024
@@ -82,7 +82,7 @@ disable404     = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:you@example.com"
+    url  = "mailto:Mohammed_alnamri@hotmail.com"
 
   [[params.social]]
     name = "github"
